@@ -1,0 +1,23 @@
+# Template for user-supplied catalog files
+
+# It is recommended you put installable items and include-file lines to reference the iLife and/or
+# iWork update catalogs in this file.
+
+#
+#	Settings
+#
+
+#Installer Choices File:	/Users/Shared/InstallerChoices.xml	sha1:bc081614c311f5fa51d460e6bc03a4cf121be260
+#Supporting Disc:			<file-name or path> tab <checksum string>
+
+#ISO Language Code:			<iso language code>
+#Output Volume Name:		<volume name>
+Output File Name:			Vanilla.10.7.i386.hfs
+
+include-file:				10.7_vanilla.catalog
+include-file:				iLife11.catalog
+include-file:				SnowLeoAndLionPrintDrivers.catalog
+include-file:				iLife11_Updates.catalog
+include-file:				Munki.catalog
+include-file:				clearReg.catalog
+

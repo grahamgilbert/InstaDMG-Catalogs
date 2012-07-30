@@ -1,0 +1,11 @@
+# Creates a 10.8 GM Image
+# Mod 09.July.2012
+
+Installer Disc Builds:	12A269
+
+Output Volume Name:		Macintosh HD
+Output File Name:		10.8_vanilla.i386.hfs
+
+OS Updates:
+	# Comment out the next line if you'd like to exclude Java
+	JavaForOSX	http://support.apple.com/downloads/DL1515/en_US/JavaForOSX.dmg	sha1:f176546327bc62d8cd397d54d1dc22b72aee1d2b
