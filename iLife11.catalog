@@ -13,26 +13,26 @@
 #       -RAWCameraUpdate3
 Third Party Software:
 ## All installations require the following 3 packages
-	iLifeRegistration	iLifeRegistration.pkg	sha1:601d0e78fb8948b889214cc1d6169b3dc95d6e91
-	iLifeCookie	iLifeCookie.pkg	sha1:8b7f1b672ecd3255be7980690a3440508cd9a6b8
+	iLifeRegistration	http://instapkgs.pebbleit.com/ilife11/iLifeRegistration.pkg	sha1:601d0e78fb8948b889214cc1d6169b3dc95d6e91
+	iLifeCookie	http://instapkgs.pebbleit.com/ilife11/iLifeCookie.pkg	sha1:8b7f1b672ecd3255be7980690a3440508cd9a6b8
 ## Comment out any of the below products if not needed
 ## iPhoto
-	iLifeSlideshow_v2	iLifeSlideshow_v2.pkg	sha1:a64b99063d4b6dbfa12c71a6a89a831505a04bdd
-	iLifeFaceRecognition	iLifeFaceRecognition.pkg	sha1:599b4df869cfe63cfa26bb09879c2b8ec0264de8
-	iPhoto	iPhoto.pkg	sha1:4edbb38cc58cf6f31501947e4205108b26e8ae88
-	iPhotoContent	iPhotoContent.pkg	sha1:c93b8abbd2e78d04475b13e7a592edf232270482
-	iPhotoLibraryUpgradeTool	iPhotoLibraryUpgradeTool.pkg	sha1:82748449dfbdf6cc23c8202da4710cc72529bfff
+	iLifeSlideshow_v2	http://instapkgs.pebbleit.com/ilife11/iLifeSlideshow_v2.pkg	sha1:a64b99063d4b6dbfa12c71a6a89a831505a04bdd
+	iLifeFaceRecognition	http://instapkgs.pebbleit.com/ilife11/iLifeFaceRecognition.pkg	sha1:599b4df869cfe63cfa26bb09879c2b8ec0264de8
+	iPhoto	http://instapkgs.pebbleit.com/ilife11/iPhoto.pkg	sha1:4edbb38cc58cf6f31501947e4205108b26e8ae88
+	iPhotoContent	http://instapkgs.pebbleit.com/ilife11/iPhotoContent.pkg	sha1:c93b8abbd2e78d04475b13e7a592edf232270482
+	iPhotoLibraryUpgradeTool	http://instapkgs.pebbleit.com/ilife11/iPhotoLibraryUpgradeTool.pkg	sha1:82748449dfbdf6cc23c8202da4710cc72529bfff
 ## iMovie
-	iMovie	iMovie.pkg	sha1:f2ad35597d6e09d9dfa058331bb2cdf16cf87d9a
+	iMovie	http://instapkgs.pebbleit.com/ilife11/iMovie.pkg	sha1:f2ad35597d6e09d9dfa058331bb2cdf16cf87d9a
 ## iDVD
-	iDVD	iDVD.pkg	sha1:5ecc32f76cf4210274a4f33ffa0f852ac413a6c6
+	iDVD	http://instapkgs.pebbleit.com/ilife11/iDVD.pkg	sha1:5ecc32f76cf4210274a4f33ffa0f852ac413a6c6
 ## Garageband
-	GarageBand	GarageBand.pkg	sha1:e11483e822419bead97480ebddef4e5fc1c460ed
-	GarageBand_Instruments	GarageBand_Instruments.pkg	sha1:a189f42160753085eb8d7983a3c1d3948951d352
-	GarageBandFactoryContent	GarageBandFactoryContent.pkg	sha1:987a08b2772888f364fea5d5d6d8bc96c0c8dd9d
-	GarageBand_LTPContent	GarageBand_LTPContent.pkg	sha1:e94959d0cc99b15e8cc797b666b277ec87d3af97
-	GarageBand_Loops	GarageBand_Loops.pkg	sha1:31cbcbf63e040f64e6bf30f22fc0653d6b4d9de1
-	GarageBand_MagicContent	GarageBand_MagicContent.pkg	sha1:e943254794a0077005de2eafa374482951dcdb80
-	iLifeSoundEffects_Loops	iLifeSoundEffects_Loops.pkg	sha1:74953c5938a06a0d2a0e1197c26337903eb4207d
+	GarageBand	http://instapkgs.pebbleit.com/ilife11/GarageBand.pkg	sha1:e11483e822419bead97480ebddef4e5fc1c460ed
+	GarageBand_Instruments	http://instapkgs.pebbleit.com/ilife11/GarageBand_Instruments.pkg	sha1:a189f42160753085eb8d7983a3c1d3948951d352
+	GarageBandFactoryContent	http://instapkgs.pebbleit.com/ilife11/GarageBandFactoryContent.pkg	sha1:987a08b2772888f364fea5d5d6d8bc96c0c8dd9d
+	GarageBand_LTPContent	http://instapkgs.pebbleit.com/ilife11/GarageBand_LTPContent.pkg	sha1:e94959d0cc99b15e8cc797b666b277ec87d3af97
+	GarageBand_Loops	http://instapkgs.pebbleit.com/ilife11/GarageBand_Loops.pkg	sha1:31cbcbf63e040f64e6bf30f22fc0653d6b4d9de1
+	GarageBand_MagicContent	http://instapkgs.pebbleit.com/ilife11/GarageBand_MagicContent.pkg	sha1:e943254794a0077005de2eafa374482951dcdb80
+	iLifeSoundEffects_Loops	http://instapkgs.pebbleit.com/ilife11/iLifeSoundEffects_Loops.pkg	sha1:74953c5938a06a0d2a0e1197c26337903eb4207d
 ## iWeb
-	iWeb	iWeb.pkg	sha1:33d5d88875cb7ff7eef1ca93481733ef17b7bd05
+	iWeb	http://instapkgs.pebbleit.com/ilife11/iWeb.pkg	sha1:33d5d88875cb7ff7eef1ca93481733ef17b7bd05

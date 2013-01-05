@@ -12,10 +12,7 @@
 
 #ISO Language Code:			<iso language code>
 #Output Volume Name:		<volume name>
-Output File Name:			Vanilla.10.7.i386.hfs
 
-include-file:				10.7_vanilla.catalog
-include-file:				iLife11.catalog
-include-file:				iLife11_Updates.catalog
-include-file:				clearReg.catalog
 
+Third Party Software:
+	puppet_launchd	http://instapkgs.pebbleit.com/puppet/puppet_launchd.dmg	sha1:a891eb35395d8d72644589e7d452b09a1959a801

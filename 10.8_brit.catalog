@@ -1,0 +1,25 @@
+# Template for user-supplied catalog files
+
+# It is recommended you put installable items and include-file lines to reference the iLife and/or
+# iWork update catalogs in this file.
+
+#
+#	Settings
+#
+
+#Installer Choices File:	/Users/Shared/InstallerChoices.xml	sha1:bc081614c311f5fa51d460e6bc03a4cf121be260
+#Supporting Disc:			<file-name or path> tab <checksum string>
+
+#ISO Language Code:			<iso language code>
+#Output Volume Name:		<volume name>
+Output File Name:			BRIT-Casper.10.8.i386.hfs
+
+include-file:				10.8_vanilla.catalog
+include-file:				printers.catalog
+include-file:				clearReg.catalog
+#include-file:				puppet.catalog
+
+Third Party Software:
+	create_brit_pebble.it-1.0	http://instapkgs.pebbleit.com/admin_users/create_brit_pebble.it-1.0.dmg	sha1:1044ce9d4b47084a6aa2394b257aa118590b5dca
+		enable-ssh	http://instapkgs.pebbleit.com/scripts/enable-ssh.dmg	sha1:e87d5e43a51cd26a6028e0933b7948e95d1ab855
+	create_appleadmin-1.0	http://instapkgs.pebbleit.com/admin_users/create_appleadmin-1.0.dmg	sha1:e3f3946179df02c8bfb66b329b1a5c23a5b90b52
